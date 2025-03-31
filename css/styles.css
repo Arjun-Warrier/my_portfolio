@@ -10210,3 +10210,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.snowflake-logo {
+  background: url('../sources/SNOW_BIG.svg') no-repeat center;
+  background-size: contain;
+  width: 100px;
+  height: 50px;
+}
